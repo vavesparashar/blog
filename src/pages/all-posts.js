@@ -11,7 +11,7 @@ const AllPosts = ({location}) => {
   const posts = usePosts();
 
   const helmet_settings = {
-    title: 'All Posts - Colby Fayock',
+    title: 'All Posts - Vivek ',
     meta: [
       {
         name: 'description',
@@ -19,7 +19,7 @@ const AllPosts = ({location}) => {
       },
       {
         property: 'og:title',
-        content: 'All Posts - Colby Fayock',
+        content: 'All Posts - Vivek ',
       },
       {
         property: 'og:description',

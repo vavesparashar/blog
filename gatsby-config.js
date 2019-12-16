@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: 'colbyfayock.com',
+        title: 'marketingbaba.com',
     },
     plugins: [
         'gatsby-plugin-resolve-src',
@@ -43,7 +43,7 @@ module.exports = {
                     }
                 },
                 analytics: {
-                    id: 'UA-28076707-1',
+                    id: 'UA-28076707-1', //GA
                 },
                 optimize: {
                     id: 'GTM-MF4ZKBR',

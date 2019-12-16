@@ -2,7 +2,7 @@
   "name": "colbyfayock",
   "description": "colbyfayock.com",
   "version": "1.0.0",
-  "author": "Colby Fayock",
+  "author": "Vivek ",
   "dependencies": {
     "gatsby": "^2.18.7",
     "gatsby-plugin-google-marketing-platform": "^0.1.17",

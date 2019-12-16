@@ -53,7 +53,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <Link to="/">
-                    &copy; Colby Fayock
+                    &copy; Vivek 
                   </Link>
                 </li>
               </ul>

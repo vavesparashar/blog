@@ -24,11 +24,11 @@ export default function Template({ location, data }) {
         bodyAttributes: {
             class: `article post post-${Parameterize(post.title)}`,
         },
-        title: `${post.title} - Colby Fayock`,
+        title: `${post.title} - Vivek `,
         meta: [
             {
                 property: 'og:title',
-                content: `${post.title} - Colby Fayock`,
+                content: `${post.title} - Vivek `,
             },
         ],
     };

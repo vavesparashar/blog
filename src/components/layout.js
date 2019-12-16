@@ -10,7 +10,7 @@ import img_favicon_png from 'assets/images/favicon.png';
 import img_touchicon_png from 'assets/images/touchicon.png';
 
 const helmet_settings = {
-    title: 'Colby Fayock - A UX Designer & Front-end Developer Blog',
+    title: 'Vivek  - A UX Designer & Front-end Developer Blog',
     meta: [
         {
             name: 'description',
@@ -18,7 +18,7 @@ const helmet_settings = {
         },
         {
             property: 'og:title',
-            content: 'Colby Fayock - A UX Designer & Front-end Developer Blog',
+            content: 'Vivek  - A UX Designer & Front-end Developer Blog',
         },
         {
             property: 'og:description',
@@ -30,7 +30,7 @@ const helmet_settings = {
         },
         {
             property: 'og:site_name',
-            content: 'Colby Fayock',
+            content: 'Vivek ',
         },
     ],
     link: [

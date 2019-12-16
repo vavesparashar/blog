@@ -7,7 +7,7 @@ import Layout from 'components/layout';
 import img_vader from 'assets/images/vader.jpg';
 
 const helmet_settings = {
-    title: 'Nooooooo... 404! - Colby Fayock',
+    title: 'Nooooooo... 404! - Vivek ',
     meta: [
         {
             name: 'description',
@@ -15,7 +15,7 @@ const helmet_settings = {
         },
         {
             property: 'og:title',
-            content: 'Nooooooo... 404! - Colby Fayock',
+            content: 'Nooooooo... 404! - Vivek ',
         },
         {
             property: 'og:description',

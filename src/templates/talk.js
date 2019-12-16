@@ -38,11 +38,11 @@ export default function Template({ location, data }) {
     bodyAttributes: {
       class: `article talk talk-${Parameterize(title)}`,
     },
-    title: `${title} - Colby Fayock`,
+    title: `${title} - Vivek `,
     meta: [
       {
         property: 'og:title',
-        content: `${title} - Colby Fayock`,
+        content: `${title} - Vivek `,
       },
     ],
   };
