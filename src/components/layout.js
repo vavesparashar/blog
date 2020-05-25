@@ -10,7 +10,7 @@ import img_favicon_png from 'assets/images/favicon.png';
 import img_touchicon_png from 'assets/images/touchicon.png';
 
 const helmet_settings = {
-    title: 'MarketingBaba - A Digital Marketer Journal',
+    title: 'Marketing Baba',
     meta: [
         {
             name: 'description',
