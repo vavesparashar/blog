@@ -4,7 +4,7 @@ title: About
 ---
 ## Where it started...
 
-Off of an exit on I-80 is Bloomsburg, PA, where I went to school and was raised. After I got done playing with Ninja Turtle and Power Ranger toys, I started tearing open things like AIM and MySpace customizing their UI's and page designs. This opened the door for me as I quickly began branching off to simple websites and flyers for gaming teams and bands. Expanding on that interest, I went to Penn State University where I got a BA in Integrative Arts.
+It all started when I was a kid.
 
 ## What I've been doing...
 
