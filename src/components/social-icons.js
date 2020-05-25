@@ -43,7 +43,7 @@ const SocialIcons = () => {
     const social_links = [
         {
             title: 'Twitter',
-            url: 'http://twitter.com/colbyfayock',
+            url: 'http://twitter.com/vavesparashar',
             icon: <FaTwitter />,
         },
         {
@@ -53,7 +53,7 @@ const SocialIcons = () => {
         },
         {
             title: 'Instagram',
-            url: 'https://www.instagram.com/colbyfayock/',
+            url: 'https://www.instagram.com/vavesparashar/',
             icon: <FaInstagram />,
         },
         {
@@ -68,7 +68,7 @@ const SocialIcons = () => {
         },
         {
             title: 'Email',
-            url: 'mailto:hello@colbyfayock.com',
+            url: 'mailto:vavesparashar@gmail.com',
             icon: <FiMail />,
         },
     ];

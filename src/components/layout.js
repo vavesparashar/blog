@@ -10,7 +10,7 @@ import img_favicon_png from 'assets/images/favicon.png';
 import img_touchicon_png from 'assets/images/touchicon.png';
 
 const helmet_settings = {
-    title: 'Vivek  - A UX Designer & Front-end Developer Blog',
+    title: 'MarketingBaba - A Digital Marketer Journal',
     meta: [
         {
             name: 'description',
