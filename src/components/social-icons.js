@@ -46,26 +46,26 @@ const SocialIcons = () => {
             url: 'http://twitter.com/vavesparashar',
             icon: <FaTwitter />,
         },
-        {
-            title: 'Medium',
-            url: 'https://medium.com/@colbyfayock',
-            icon: <FaMedium />,
-        },
+        //{
+          //  title: 'Medium',
+            //url: 'https://medium.com/',
+            //icon: <FaMedium />,
+        //},
         {
             title: 'Instagram',
             url: 'https://www.instagram.com/vavesparashar/',
             icon: <FaInstagram />,
         },
-        {
-            title: 'GitHub',
-            url: 'http://github.com/colbyfayock',
-            icon: <FaGithub />,
-        },
-        {
-            title: 'Dribbble',
-            url: 'http://dribbble.com/colbyfayock',
-            icon: <FaDribbble />,
-        },
+        //{
+          //  title: 'GitHub',
+            //url: 'http://github.com/',
+            //icon: <FaGithub />,
+        //},
+        //{
+          //  title: 'Dribbble',
+            //url: 'http://dribbble.com/',
+            //icon: <FaDribbble />,
+        //},
         {
             title: 'Email',
             url: 'mailto:vavesparashar@gmail.com',
