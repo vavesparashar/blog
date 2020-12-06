@@ -43,7 +43,7 @@ const SocialIcons = () => {
     const social_links = [
         {
             title: 'Twitter',
-            url: 'http://twitter.com/vavesparashar',
+            url: 'http://twitter.com/mktingbaba',
             icon: <FaTwitter />,
         },
         //{
@@ -51,11 +51,11 @@ const SocialIcons = () => {
             //url: 'https://medium.com/',
             //icon: <FaMedium />,
         //},
-        {
-            title: 'Instagram',
-            url: 'https://www.instagram.com/vavesparashar/',
-            icon: <FaInstagram />,
-        },
+       // {
+         //   title: 'Instagram',
+           // url: 'https://www.instagram.com/vavesparashar/',
+            //icon: <FaInstagram />,
+       // },
         //{
           //  title: 'GitHub',
             //url: 'http://github.com/',
@@ -68,7 +68,7 @@ const SocialIcons = () => {
         //},
         {
             title: 'Email',
-            url: 'mailto:vavesparashar@gmail.com',
+            url: 'mailto:namaste@marketingbaba.in',
             icon: <FiMail />,
         },
     ];

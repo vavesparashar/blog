@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 
 import SocialIcons from './social-icons';
 
-import image_resume from '../../static/assets/colby-fayock-front-end-development-web-design-resume.pdf';
+// import image_resume from '../../static/assets/colby-fayock-front-end-development-web-design-resume.pdf';
 
 const Footer = () => {
   return (
@@ -15,7 +15,7 @@ const Footer = () => {
 
           <div className="row">
             <p>
-              Looking to refresh your web presence? <a href="mailto:vavesparashar@gmail.com">Contact me now</a> for availability and pricing.
+              Looking for marketing help? <a href="mailto:namaste@marketingbaba.in">Contact me now</a> for availability.
             </p>
           </div>
 
@@ -46,14 +46,10 @@ const Footer = () => {
                     All Posts
                   </Link>
                 </li>
-                <li>
-                  <a href={image_resume}>
-                    Resume
-                  </a>
-                </li>
+                
                 <li>
                   <Link to="/">
-                    &copy; Vivek 
+                    &copy;Marketing Baba
                   </Link>
                 </li>
               </ul>
