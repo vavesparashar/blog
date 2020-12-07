@@ -33,20 +33,20 @@ module.exports = {
             resolve: 'gatsby-plugin-google-marketing-platform',
             options: {
                 dataLayer: {
-                    gaPropertyId: 'UA-28076707-1',
-                    gaOptimizeId: 'GTM-MF4ZKBR'
+                    gaPropertyId: 'UA-184977720-1',
+                    gaOptimizeId: 'OPT-TKWT26N'
                 },
                 tagmanager: {
-                    id: 'GTM-NJ75NM',
+                    id: 'GTM-N2RLXVT',
                     params: {
                         gtm_cookies_win: 'x'
                     }
                 },
                 analytics: {
-                    id: 'UA-28076707-1', //GA
+                    id: 'UA-184977720-1', //GA
                 },
                 optimize: {
-                    id: 'GTM-MF4ZKBR',
+                    id: 'OPT-TKWT26N',
                 },
                 includeInDevelopment: false,
             },
