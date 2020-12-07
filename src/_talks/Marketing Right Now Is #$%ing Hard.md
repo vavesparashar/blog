@@ -1,6 +1,8 @@
 ---
 template: talk
 title: Marketing Right Now Is #$%*ing Hard
+video: ''
+slides: ''
 date: 2020-12-8T04:00:00.000Z
 ---
 What a well written. 
