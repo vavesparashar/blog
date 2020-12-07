@@ -8,6 +8,10 @@ const CATEGORIES = [
     value: 'coding',
   },
   {
+    label: 'Opinion',
+    value: 'Opinion',
+  },
+  {
     label: 'Graphic Design',
     value: 'graphic-design',
   },
