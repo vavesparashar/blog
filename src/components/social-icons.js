@@ -43,7 +43,7 @@ const SocialIcons = () => {
     const social_links = [
         {
             title: 'Twitter',
-            url: 'http://twitter.com/mktingbaba',
+            url: 'http://twitter.com/mktngbaba',
             icon: <FaTwitter />,
         },
         //{
