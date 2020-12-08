@@ -12,6 +12,10 @@ const CATEGORIES = [
     value: 'Opinion',
   },
   {
+    label: 'Lessons',
+    value: 'Lessons',
+  },
+  {
     label: 'Graphic Design',
     value: 'graphic-design',
   },

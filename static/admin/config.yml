@@ -27,6 +27,8 @@ collections:
     options:
     - label: Coding
       value: coding
+    - label: Lessons
+      value: Lessons
     - label: Opinion
       value: Opinion
     - label: Graphic Design
