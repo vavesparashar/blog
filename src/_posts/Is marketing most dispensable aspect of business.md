@@ -1,6 +1,6 @@
 ---
 template: post
-title: Going online is more important than ever
+title: Is marketing most dispensable aspect of business
 date: 2020-5-10T13:23:58.193Z
 category: Opinion
 ---
