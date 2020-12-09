@@ -1,6 +1,6 @@
 ---
 template: post
-title: Social proof is gold
+title: Practical Sales target
 date: 2020-10-2T13:23:58.193Z
 category: Lessons
 ---

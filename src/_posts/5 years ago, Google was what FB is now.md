@@ -1,7 +1,7 @@
 ---
 template: post
 title: 5 years ago, Google was what FB is now
-date: 2020-3-6T02:54:56.053Z
+date: 2020-3-1T02:54:56.053Z
 category: Opinion
 ---
 Recently google announced that, [Google Ads are offering $340 Million in Ad Credit to Small Businesses](https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/27/google-offering-800m-coronavirus-help-package.html).
