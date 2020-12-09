@@ -1,7 +1,7 @@
 ---
 template: post
-title: Going online is more important than ever
-date: 2020-4-10T13:23:58.193Z
+title: Online presence is more important than ever
+date: 2020-4-10T14:23:58.193Z
 category: Opinion
 ---
 All this small scare in corona-virus has confirmed my convictions that world we have known forever might have changed.

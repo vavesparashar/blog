@@ -4,20 +4,22 @@ title: Going online is more important than ever
 date: 2020-5-10T13:23:58.193Z
 category: Opinion
 ---
-All this small scare in corona-virus has confirmed my convictions that world we have known forever might have changed.
+Now, there is this noise i am hearing that marketing people get fired first when cut-shorting is done.
 
-With the amount of scientific updates and data - scientists quote, then add this virus outbreak. It is hard to ignore the noise when economical index free falls everyday.
+Does the data back it?
 
-So, How to overcome this economic freefall?
+Oyo - a unicorn in hospitality cut fired 10k employees early feb. Were they of marketing? Data says, 70% were operational employees.
 
-Well, you need a resource that is independent of such metrics.
+Marketing now a days, doesn't mean much employees.
 
-A good example is digital existence. Your website, SEO, Social media profiles, ads - these world is just fine even when traditional businesses are making huge losses. Old empires keep falling for new to make way. Google, Facebook are latest examples. Infact, Amazon is big not because of the website but cloud services in aws.
+2-3, sometimes - even one marvelous marketer is enough to keep the ship steady.
 
-Digital presence is an asset in this present situation. Human beings are adaptable species, this is the core of their intelligence. So, adapt. It is good that you don't trust in this enough. Deniability is a basic instinct that helps us survive. Businesses survive then thrive.
+Those who fire marketing guys first are practicaly saying no to reaching out. How will business thrive if no one knows you?
 
-Expand your reach and presence, and how to do that cheaply. Get a website, do some basic seo, maintain some consistent social media. These are very cheap marketing method. 30 years ago, companies needed huge marketing budget to reach out. Coca cola spent billions to reach everywhere. **You can compete with coca-cola online**. Such is the might.
+This is the sign of ship going down. Even mighter titanic sunk. Better to de-board.
 
-Big companies have been caught sleeping on laurels and not riding the wave, start ups are bigger in few years what took traditional business decades to build.
+A good company will adpat and see - maintaining an online presence is very easy and cost effective. The ROI and a consistent brand presence even in such times, is a valuable assest to have. Not many organisations can say the same.
 
-I only see benefits.
+So, if you don't want to close down your business in future ever, do your hard work and determination to succeed a favour and get an online presence.
+
+I can only see upside.

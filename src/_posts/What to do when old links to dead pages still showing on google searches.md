@@ -4,20 +4,12 @@ title: What to do when old links to dead pages still showing on google searches?
 date: 2020-11-28T13:23:58.193Z
 category: Lessons
 ---
- **Is it better to market on popular social media platforms as much as possible or focus more on high quality post?**
+**Solution:**  301 redirect them to the most relevant existing pages.
 
-I use the 3 layered social approach
+The 301 redirect is sending users to a different page. The best case is you have similar pages on the new site you can direct users too. If you don’t, you can redirect to the homepage.
 
-- Star
+301 redirect them to a page that's related to the old page, if there is nothing you can point them to serve a 410 to let Google know the page was removed. 
 
-- Standard
+You should also update your sitemap and submit to Google Search Console and Bing Webmaster tool. 
 
-- Hygiene
-
-**Star** is your top high quality content which you'd post once or twice a week at peak times.
-
-**Standard** is your good but not great content that gets engagement you should be posting 3 times a week.
-
-**Hygiene** is your daily content that just serves to keep traction and minimal brand awareness.
-
-Don't try to make every post a god level post. Not every post has to be amazing!
+Also, Next time you do a redesign make 301 redirects a part of your planning process. :) 
