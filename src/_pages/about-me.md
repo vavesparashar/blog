@@ -2,46 +2,12 @@
 template: page
 title: About
 ---
-## Where it started...
+Curiosity led to Engineering and Humans led to Marketing. Both merged to blossom me as **a digital marketer.**
 
-It all started when I was a kid.
+A relaxed mind filled with an unquenchable curiosity to all that is life. Channeling this energy in all facets.
 
-## What I've been doing...
+Former Rajasthan Government Engineer who quit the security of a comfortable life for higher pursuits. Invested into my own venture in the form of a state of art tattoo studio in Jaipur - Zero Error Tattoos. Now venturing into the sea of pixels as a digital marketer.
 
-### [Snap!Retail](https://snapretail.com/)
+Strong believer of open-minded thinking; It helps to discover the world of possibilities, synergies, and inspirations. At work to stand out, assimilate deeper and communicate better.
 
-#### Web and Graphic Designer
-
-Pittsburgh, PA
-
-Email campaigns and web advertising for Snap, their partner OneCoast, and both of the company's retail customers which included brands such as MudPie and Lindsay Phillips
-
-### [Endagraph](http://endagraph.com/)
-
-#### Graphic Designer
-
-Pittsburgh, PA
-
-Worked on mostly large format projects including trailer advertisements and vehicle wraps for companies such as George Howe, Perdue, the Pittsburgh Penguins, and Wendy's.
-
-### [ShowClix](http://showclix.com/)
-
-#### Web and Graphic Designer
-
-Pittsburgh, PA
-
-Lead the creative and front-end development on front-facing marketing initiatives including a complete redesign of the company's homepage and sales pages, as well as refreshing brand styles and identity.
-
-### [ThinkGeek](http://thinkgeek.com)
-
-#### Senior UX Designer & Front End Developer
-
-Fairfax, VA
-
-Drove all UX and front end development for a large geek culture ecommerce website.
-
-## And what I'm doing now...
-
-Currently, I'm living in Virginia working as a UX Designer & Front End Developer for [Element 84](https://www.element84.com/).
-
-You can also find me freelancing and messing around with [GitHub repos](https://github.com/colbyfayock) in my free time.
+I wirte about data, marketing and human psychology on MarketingBaba.in 
