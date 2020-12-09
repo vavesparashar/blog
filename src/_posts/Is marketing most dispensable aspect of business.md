@@ -1,7 +1,7 @@
 ---
 template: post
 title: Is marketing most dispensable aspect of business
-date: 2020-5-10T13:23:58.193Z
+date: 2020-5-1T13:23:58.193Z
 category: Opinion
 ---
 Now, there is this noise i am hearing that marketing people get fired first when cut-shorting is done.
