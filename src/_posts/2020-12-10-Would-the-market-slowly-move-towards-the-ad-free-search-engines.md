@@ -1,7 +1,7 @@
 ---
 template: post
 title: Would the market slowly move towards the ad-free search engines?
-date: 2020-12-10T2:20:40.193z
+date: 2020-12-2T02:54:56.053Z
 category: Opinion
 ---
 

@@ -1,7 +1,7 @@
 ---
 template: post
 title: Upfront costs of marketing agency
-date: 2020-12-9T13:23:58.193Z
+date: 2020-12-9T02:54:56.053Z
 category: Opinion
 ---
 

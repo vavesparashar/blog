@@ -1,7 +1,7 @@
 ---
 template: post
 title:  Can I track a random website and target its visitors using Facebook/Google ad? 
-date: 2020-12-5T2:30:49.829z
+date: 2020-12-3T02:54:56.053Z
 category: Lessons
 ---
 
