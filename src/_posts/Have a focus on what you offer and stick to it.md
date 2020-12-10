@@ -1,10 +1,8 @@
-------
-
+---
 template: post
 title:   Have a focus on what you offer and stick to it 
 date: 2020-12-10T13:23:58.193Z
 category: Lessons
-
 ---
 
 Yes. You may know multiple areas, but know what you're an expert at and what you're not.

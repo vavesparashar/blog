@@ -1,10 +1,8 @@
 ---
-
 template: post
 title: How to keep the team engaged while working remotely?
 date: 2020-12-4T13:23:58.193Z
 category: Lessons
-
 ---
 
 **Solution:** "".""
