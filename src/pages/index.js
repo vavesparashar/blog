@@ -23,26 +23,6 @@ const Index = ({location, data}) => {
       <div className="container">
 
         <Helmet {...helmet_settings} />
-        <div className="home-newsletter">
-        <div className="container">
-          <Link to="/newsletter">
-            <span className="home-newsletter-icon">
-              📬
-            </span>
-            <div className="home-newsletter-content">
-              <h3>Weekly Newsletter</h3>
-              <p>
-                Fresh guides & tutorials weekly straight to your inbox!
-              </p>
-            </div>
-            <div className="home-newsletter-button">
-              <button>
-                Sign Up
-              </button>
-            </div>
-          </Link>
-        </div>
-      </div>
 
         <Tabs>
           <TabList>
