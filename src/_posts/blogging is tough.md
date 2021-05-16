@@ -1,7 +1,7 @@
 ---
 template: post
 title: Blogging is tough 
-date: 2020-12-1T13:23:58.193Z
+date: 2021-5-17T01:00:58.193Z
 category: Lessons
 ---
 I have been trying to set up whiteseer.com
