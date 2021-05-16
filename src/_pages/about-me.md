@@ -2,46 +2,14 @@
 template: page
 title: About
 ---
-## Where it started...
+I am marketer from New delhi, India.
 
-It all started when I was a kid.
+I work on various projects and share my learnings and analysis here. 
 
-## What I've been doing...
+I have my own media agency -- [Parashar Media(http://parasharmedia.com) where I work for selected clients and media houses.
 
-### [Snap!Retail](https://snapretail.com/)
+I am a fan of open-source and believe this is where humanity will head towards.
 
-#### Web and Graphic Designer
+Follow me on [twitter](https://twitter.com/mktngbaba) for regular updates. 
 
-Pittsburgh, PA
-
-Email campaigns and web advertising for Snap, their partner OneCoast, and both of the company's retail customers which included brands such as MudPie and Lindsay Phillips
-
-### [Endagraph](http://endagraph.com/)
-
-#### Graphic Designer
-
-Pittsburgh, PA
-
-Worked on mostly large format projects including trailer advertisements and vehicle wraps for companies such as George Howe, Perdue, the Pittsburgh Penguins, and Wendy's.
-
-### [ShowClix](http://showclix.com/)
-
-#### Web and Graphic Designer
-
-Pittsburgh, PA
-
-Lead the creative and front-end development on front-facing marketing initiatives including a complete redesign of the company's homepage and sales pages, as well as refreshing brand styles and identity.
-
-### [ThinkGeek](http://thinkgeek.com)
-
-#### Senior UX Designer & Front End Developer
-
-Fairfax, VA
-
-Drove all UX and front end development for a large geek culture ecommerce website.
-
-## And what I'm doing now...
-
-Currently, I'm living in Virginia working as a UX Designer & Front End Developer for [Element 84](https://www.element84.com/).
-
-You can also find me freelancing and messing around with [GitHub repos](https://github.com/colbyfayock) in my free time.
+You can subscribe to my marketing newsletter: [pixels]() for regular updates.
