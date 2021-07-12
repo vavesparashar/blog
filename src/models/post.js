@@ -39,6 +39,11 @@ const CATEGORIES = [
     label: 'Web Design',
     value: 'web-design',
   },
+  
+  {
+    label: 'Welcome',
+    value: 'welcome',
+  },
 ];
 
 class Post {
