@@ -12,7 +12,7 @@ const HeaderLogo = ({path}) => {
           <Link to="/">{ name }</Link>
           <span className="tagline">
             In search of Incredible 
-            <br>by Vivek Vardhan</br>
+            by Vivek Vardhan
           </span>
         </h1>
       )}
