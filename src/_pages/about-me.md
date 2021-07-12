@@ -2,46 +2,28 @@
 template: page
 title: About
 ---
-## Where it started...
 
-It all started when I was a kid.
+It has been more than half a decade since I have been a marketer. 
 
-## What I've been doing...
+As a Computer science engineer, Digital marketing always seemed very natural and best to my abilities. My techincal skills along with fondness for human understanding, merged to get me where I am. 
 
-### [Snap!Retail](https://snapretail.com/)
+I have always been a big fan of open-source and believe that had it not been for goolge and [research papers](https://sci-hub.se/) available online, I would have struggled a lot during my career switch.
 
-#### Web and Graphic Designer
+I worked across 12 major industries, succeeding for most and failing a few. Along the way, I allowed real life lessons to be my marketing guide.
 
-Pittsburgh, PA
+During early days, I was always amazed how helpful online coding cummunity. Guys at stackover, freecodecamp etc are where real programmers are born. 
 
-Email campaigns and web advertising for Snap, their partner OneCoast, and both of the company's retail customers which included brands such as MudPie and Lindsay Phillips
+Same could not be said about marketing. I often asked around and reasoned, generally marketing works on the principal of surprise. When a marketing tactic becomes famous, it looses its value as everyone is doing the same. Hence, standing out is difficult.
 
-### [Endagraph](http://endagraph.com/)
+Hence, Great marketers have often been reserved about what made them successful. Few dared to write books but theory doesn't work much in real life.
 
-#### Graphic Designer
+This blog is with a purpose that I shed light on learnings, tactics, and analysis. Marketers, Indiehackers, Businessmen and human psychology professionals are my main readers. 
 
-Pittsburgh, PA
+Currently, I am as a business head  of [Parashar Media](http://parasharmedia.com) where I work for selected clients and media houses.
 
-Worked on mostly large format projects including trailer advertisements and vehicle wraps for companies such as George Howe, Perdue, the Pittsburgh Penguins, and Wendy's.
+I am present across these web platforms: [Twitter](https://twitter.com/mktngbaba), [LinkedinIn](https://www.linkedin.com/in/vavesparashar/) and [MarketingBaba.in](https://marketingbaba.in/)
 
-### [ShowClix](http://showclix.com/)
+I trust you find value with my work.
 
-#### Web and Graphic Designer
-
-Pittsburgh, PA
-
-Lead the creative and front-end development on front-facing marketing initiatives including a complete redesign of the company's homepage and sales pages, as well as refreshing brand styles and identity.
-
-### [ThinkGeek](http://thinkgeek.com)
-
-#### Senior UX Designer & Front End Developer
-
-Fairfax, VA
-
-Drove all UX and front end development for a large geek culture ecommerce website.
-
-## And what I'm doing now...
-
-Currently, I'm living in Virginia working as a UX Designer & Front End Developer for [Element 84](https://www.element84.com/).
-
-You can also find me freelancing and messing around with [GitHub repos](https://github.com/colbyfayock) in my free time.
+Kindly yours,
+Vivek
