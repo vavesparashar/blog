@@ -30,10 +30,10 @@ const Index = ({location, data}) => {
             <Tab>Bites</Tab>
           </TabList>
           <TabPanel>
-            <ArticleList articles={posts} />
+            <ArticleList articles={talks} />
           </TabPanel>
           <TabPanel>
-            <ArticleList articles={talks} />
+            <ArticleList articles={posts} />
           </TabPanel>
         </Tabs>
 
