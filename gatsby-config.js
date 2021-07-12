@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: 'marketingbaba.com',
+        title: 'marketingbaba.in',
     },
     plugins: [
         'gatsby-plugin-resolve-src',
