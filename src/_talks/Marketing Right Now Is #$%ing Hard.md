@@ -49,4 +49,4 @@ Thank you for reading.
 
 Vasu
 
-Next: Do you need a social media presence as a business?
+Next - Do you need a social media presence as a business?
