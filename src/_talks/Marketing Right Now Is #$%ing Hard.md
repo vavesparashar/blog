@@ -4,7 +4,7 @@ title: Marketing overview
 video: ''
 slides: ''
 date: 2021-12-7T04:00:00.000Z
--
+---
 General overview of marketing. 
 
 - Ariel powder case
@@ -49,4 +49,4 @@ Thank you for reading.
 
 Vasu
 
-Next - Do you need a social media presence as a business?
+Next: Do you need a social media presence as a business?
