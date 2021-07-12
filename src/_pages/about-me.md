@@ -9,15 +9,17 @@ As a Computer science engineer, Digital marketing always seemed very natural and
 
 I have always been a big fan of open-source and believe that had it not been for goolge and [research papers](https://sci-hub.se/) available online, I would have struggled a lot during my career switch.
 
-I worked across 12 major industries, succeeding for most and failing a few. Along the way, I allowed real life lessons to be my marketing guide.
+I worked across 12 major industries, succeeding at most and failing a few. Along the way, I allowed real life lessons to be my marketing guide.
 
 During early days, I was always amazed how helpful online coding cummunity. Guys at stackover, freecodecamp etc are where real programmers are born. 
 
-Same could not be said about marketing. I often asked around and reasoned, generally marketing works on the principal of surprise. When a marketing tactic becomes famous, it looses its value as everyone is doing the same. Hence, standing out is difficult.
+Same could not be said about marketing. I often asked around and reasoned, marketing works on the principal of surprise. When a marketing tactic becomes famous, it looses its value as everyone is doing the same. Result of which, standing out is difficult.
 
 Hence, Great marketers have often been reserved about what made them successful. Few dared to write books but theory doesn't work much in real life.
 
-This blog is with a purpose that I shed light on learnings, tactics, and analysis. Marketers, Indiehackers, Businessmen and human psychology professionals are my main readers. 
+This blog is with a purpose that I shed light on learnings, tactics, and analysis. 
+
+Marketers, Indiehackers, Businessmen and human psychology professionals are my main readers. 
 
 Currently, I am as a business head  of [Parashar Media](http://parasharmedia.com) where I work for selected clients and media houses.
 
@@ -25,5 +27,5 @@ I am present across these web platforms: [Twitter](https://twitter.com/mktngbaba
 
 I trust you find value with my work.
 
-Kindly yours,
+Sincerely,
 Vivek
