@@ -1,6 +1,6 @@
 ---
 template: page
-title: pixels
+title: pixels | Newletter
 ---
 
 # **Sign Up | Pixels**
@@ -13,4 +13,4 @@ Each week, the newsletter will challenge your thinking, provide solutions for re
 
 If you are looking to infuse your professional life with joy, or simply accelerate your path to your next promotion, subscribe now! 
 
-<script async data-uid="c8250d039d" src="https://adept-originator-9671.ck.page/c8250d039d/index.js"></script>
+<script async data-uid="e3d3032b9d" src="https://adept-originator-9671.ck.page/e3d3032b9d/index.js"></script>
