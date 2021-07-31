@@ -68,7 +68,7 @@ const SocialIcons = () => {
         //},
         {
             title: 'Email',
-            url: 'mailto:namaste@marketingbaba.in',
+            url: 'https://marketingbaba.in/pixels-newsletter',
             icon: <FiMail />,
         },
     ];
