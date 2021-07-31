@@ -13,8 +13,7 @@ const Footer = () => {
 
         <div className="content">
 
-<script async data-uid="c8250d039d" src="https://adept-originator-9671.ck.page/c8250d039d/index.js"></script>
-          
+        <script async data-uid="c8250d039d" src="https://adept-originator-9671.ck.page/c8250d039d/index.js"></script>          
           <div className="row"> 
           
           </div>
