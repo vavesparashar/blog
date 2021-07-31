@@ -14,9 +14,10 @@ const Footer = () => {
         <div className="content">
 
           <div className="row">
-            <p>
-            <script async data-uid="c8250d039d" src="https://adept-originator-9671.ck.page/c8250d039d/index.js"></script>  
-            </p>
+          <script async data-uid="c8250d039d" src="https://adept-originator-9671.ck.page/c8250d039d/index.js"></script>
+            // <p>
+              //Join 1000+ marketers getting the weekly updates <a href="mailto:namaste@marketingbaba.in">Subscrcibe</a> now.
+            // </p>
           </div>
 
         </div>
@@ -49,7 +50,7 @@ const Footer = () => {
                 
                 <li>
                   <Link to="/">
-                    &copy;Marketing Baba
+                    &copy;Inspire.Me
                   </Link>
                 </li>
               </ul>
