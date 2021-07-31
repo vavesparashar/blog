@@ -23,7 +23,7 @@ Marketers, Indiehackers, Businessmen and human psychology professionals are my m
 
 Currently, I am as a business head  of [Parashar Media](http://parasharmedia.com) where I work for selected clients and media houses.
 
-I am present across these web platforms: [Twitter](https://twitter.com/mktngbaba), [LinkedinIn](https://www.linkedin.com/in/vavesparashar/) and [MarketingBaba.in](https://marketingbaba.in/)
+I am present across these web platforms: [Twitter](https://twitter.com/mktngbaba), [LinkedIn](https://www.linkedin.com/in/vavesparashar/) and [MarketingBaba.in](https://marketingbaba.in/)
 
 I trust you find value with my work.
 

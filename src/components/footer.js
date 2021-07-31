@@ -8,13 +8,14 @@ import SocialIcons from './social-icons';
 const Footer = () => {
   return (
     <div className="footer">
-
+<script async data-uid="c8250d039d" src="https://adept-originator-9671.ck.page/c8250d039d/index.js"></script>
+          
       <div className="container footer-secondary">
 
         <div className="content">
 
           <div className="row"> 
-          <script async data-uid="c8250d039d" src="https://adept-originator-9671.ck.page/c8250d039d/index.js"></script>
+          
           </div>
 
         </div>
