@@ -27,6 +27,6 @@ I am present across these web platforms: [Twitter](https://twitter.com/mktngbaba
 
 I trust you find value with my work.
 
-Sincerely,
+yours truly,
 Vivek
 

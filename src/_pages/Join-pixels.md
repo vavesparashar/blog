@@ -1,6 +1,6 @@
 ---
 template: page
-title: pixels | Newletter
+title: pixels | Newsletter
 ---
 
 # **Sign Up | Pixels**
