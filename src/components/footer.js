@@ -15,7 +15,7 @@ const Footer = () => {
 
           <div className="row">
             <p>
-              Looking for marketing help? <a href="mailto:namaste@marketingbaba.in">Contact me now</a> for availability.
+            <script async data-uid="c8250d039d" src="https://adept-originator-9671.ck.page/c8250d039d/index.js"></script>  
             </p>
           </div>
 
