@@ -19,7 +19,7 @@ const Footer = () => {
 
 <div class="formkit-background" style="opacity: 1;"></div><div data-style="minimal"><div class="formkit-header" data-element="header"><h2>Join pixels</h2></div><div class="formkit-subheader" data-element="subheader" ><p>One email per week discussing marketing, business &amp; human psychology</p></div><ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul><div data-element="fields" data-stacked="false" class="seva-fields formkit-fields"><div class="formkit-field">
 
-<input class="formkit-input" name="email_address" aria-label="Email Address" placeholder="Email Address" required="" type="email" ></div>
+<input class="formkit-input" name="email_address" aria-label="Email Address" placeholder="Email Address" required="" type="email" /></div>
 
 <button data-element="submit" class="formkit-submit formkit-submit" ><div class="formkit-spinner"><div></div><div></div><div></div></div><span class="">Subscribe</span></button></div><div class="formkit-guarantee" data-element="guarantee" ><p>​</p></div></div>
 
