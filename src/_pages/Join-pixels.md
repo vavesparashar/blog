@@ -1,6 +1,6 @@
 ---
 template: page
-title: pixels | Newsletter
+title: Pixels | Newsletter
 ---
 
 Pixels is free newsletter and is published 50x per year. 
