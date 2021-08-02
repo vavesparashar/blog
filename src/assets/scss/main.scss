@@ -42,7 +42,9 @@ $fa-font-path: "assets/fonts";
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-
+.inline-container {
+  margin: 0 auto;
+}
 body {
   color: $font-color-base;
   font-family: $font-family-base;
