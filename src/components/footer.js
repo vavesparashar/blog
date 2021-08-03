@@ -16,8 +16,7 @@ const Footer = () => {
 
           <div className="row"> 
           <p>
-              <script async src="https://eomail5.com/form/f674b022-f25f-11eb-96e5-06b4694bee2a.js" data-form="f674b022-f25f-11eb-96e5-06b4694bee2a"></script>
-             </p>
+          <form class="email-signup" action="https://eomail5.com/form/f674b022-f25f-11eb-96e5-06b4694bee2a.js" data-form="f674b022-f25f-11eb-96e5-06b4694bee2a" method="post"><input type="email" name="email_address" placeholder="Your email address"/><button class="button button-primary">Subscribe</button></form> </p>
    
           </div>
 
