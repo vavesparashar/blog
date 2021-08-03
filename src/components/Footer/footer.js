@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import EmailSignup from 'components/EmailSignup';
 
 import SocialIcons from './social-icons';
 
@@ -9,19 +8,13 @@ import SocialIcons from './social-icons';
 const Footer = () => {
   return (
     <div className="footer">
-      <div className="container footer-email-signup">
-        <div className="content">
-          <div className="row">
-            <p>
-              Get daily quotes in your email inbox!
-            </p>
-            <p className="emoji">
-              🙌 ✉️ 🙌
-            </p>
-            <EmailSignup />
-          </div>
-        </div>
-      </div>
+      <Section>
+        <Container className={styles.footerEmailSignup}>
+          <p>Get free content and updates straight to your inbox!</p>
+          <p className={styles.emoji}>🙌 ✉️ 🙌</p>
+          <FormSignupNewsletter className={styles.footerEmailSignupForm} />
+        </Container>
+      </Section>
 
             <footer className="container footer-primary" role="contentinfo">
 
