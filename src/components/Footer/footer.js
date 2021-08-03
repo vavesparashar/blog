@@ -4,9 +4,9 @@ import useSite from 'hooks/use-site';
 
 import SocialIcons from 'components/SocialIcons';
 
-import Section from 'components/Section';
-import Container from 'components/Container';
-import FormSignupNewsletter from 'components/FormSignupNewsletter';
+import Section from 'components/Section/Section';
+import Container from 'components/Container/Container';
+import FormSignupNewsletter from 'components/FormSignupNewsletter/FormSignupNewsletter';
 
 import styles from './Footer.module.scss';
 
