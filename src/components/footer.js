@@ -1,7 +1,5 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import Helmet from "react-helmet";
-import { withPrefix } from "gatsby";
 
 
 import SocialIcons from './social-icons';
@@ -17,10 +15,10 @@ const Footer = () => {
         <div className="content">
 
           <div className="row"> 
-          <Helmet>
-          <script async src="https://eomail5.com/form/f674b022-f25f-11eb-96e5-06b4694bee2a.js" data-form="f674b022-f25f-11eb-96e5-06b4694bee2a"></script>
-             </Helmet>
-             
+          <p>
+              <script async src="https://eomail5.com/form/f674b022-f25f-11eb-96e5-06b4694bee2a.js" data-form="f674b022-f25f-11eb-96e5-06b4694bee2a"></script>
+             </p>
+   
           </div>
 
         </div>
