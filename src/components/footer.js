@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import Helmet from "react-helmet";
-import { withPrefix, Link } from "gatsby";
+import { withPrefix } from "gatsby";
 
 
 import SocialIcons from './social-icons';
