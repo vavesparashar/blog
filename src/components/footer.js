@@ -20,11 +20,7 @@ const Footer = () => {
           <Helmet>
         <script src={withPrefix('https://eomail5.com/form/f674b022-f25f-11eb-96e5-06b4694bee2a.js')} type="text/javascript" />
     </Helmet>
-             
-             <p>
-              <script async src="https://eomail5.com/form/f674b022-f25f-11eb-96e5-06b4694bee2a.js" data-form="f674b022-f25f-11eb-96e5-06b4694bee2a"></script>
-             </p>
-          </div>
+               </div>
 
         </div>
 
