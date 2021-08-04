@@ -18,7 +18,7 @@ const Footer = () => {
           <p>
           
            One email per week discussing marketing, business and human psychology 
-           <p> <a href="https://marketingbaba.in/pixels-newsletter">Subscrcibe</a> now. </p> 
+           <p> <a href="https://marketingbaba.in/pixels-newsletter">Subscribe</a> </p> 
           
           </p>
    
