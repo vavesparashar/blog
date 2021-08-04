@@ -11,19 +11,19 @@ const AllPosts = ({location}) => {
   const posts = usePosts();
 
   const helmet_settings = {
-    title: 'All Posts - Vivek ',
+    title: 'All Posts',
     meta: [
       {
         name: 'description',
-        content: 'More than you probably want to read...',
+        content: 'All works in single place',
       },
       {
         property: 'og:title',
-        content: 'All Posts - Vivek ',
+        content: 'All Posts',
       },
       {
         property: 'og:description',
-        content: 'More than you probably want to read...',
+        content: 'All articles in a single place',
       },
     ],
     bodyAttributes: {

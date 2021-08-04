@@ -15,7 +15,7 @@ const helmet_settings = {
         },
         {
             property: 'og:title',
-            content: 'Nooooooo... 404! - Vivek ',
+            content: 'Nooooooo... 404!',
         },
         {
             property: 'og:description',

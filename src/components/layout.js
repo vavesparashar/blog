@@ -10,19 +10,19 @@ import img_favicon_png from 'assets/images/favicon.png';
 import img_touchicon_png from 'assets/images/touchicon.png';
 
 const helmet_settings = {
-    title: 'Marketing Baba',
+    title: 'Inspire.Me',
     meta: [
         {
             name: 'description',
-            content: 'Blog, notes, projects, and such'
+            content: 'Understanding Internet, Business and human behaviour'
         },
         {
             property: 'og:title',
-            content: 'Vivek  - A UX Designer & Front-end Developer Blog',
+            content: 'Inspire.Me',
         },
         {
             property: 'og:description',
-            content: 'Blog, notes, projects, and such',
+            content: 'Understanding Internet, Business and human behaviour',
         },
         {
             property: 'og:url',
@@ -30,7 +30,7 @@ const helmet_settings = {
         },
         {
             property: 'og:site_name',
-            content: 'Vivek ',
+            content: 'Inspire.Me',
         },
     ],
     link: [
