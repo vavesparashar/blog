@@ -17,7 +17,7 @@ const Footer = () => {
           <div className="row"> 
           <p>
           
-          One email per week discussing marketing, business and human psychology <br><a href="https://marketingbaba.in/pixels-newsletter">Subscrcibe</a> now. </br>
+           One email per week discussing marketing, business and human psychology \n<a href="https://marketingbaba.in/pixels-newsletter">Subscrcibe</a> now. 
           
           </p>
    
@@ -53,7 +53,7 @@ const Footer = () => {
                 
                 <li>
                   <Link to="/">
-                    &copy;Pixels
+                    &copy;Inspire.Me
                   </Link>
                 </li>
               </ul>
