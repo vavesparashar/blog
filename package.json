@@ -1,8 +1,8 @@
 {
-  "name": "Wormhole",
+  "name": "Inspire.Me",
   "description": "marketingbaba.in",
   "version": "1.0.0",
-  "author": "Vivek ",
+  "author": "Vivek Vardhan",
   "dependencies": {
     "gatsby": "^2.18.7",
     "gatsby-plugin-google-marketing-platform": "^0.1.17",
