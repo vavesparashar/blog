@@ -17,7 +17,7 @@ const Footer = () => {
           <div className="row"> 
           <p>
           
-           One email per week discussing marketing, business and human psychology \n<a href="https://marketingbaba.in/pixels-newsletter">Subscrcibe</a> now. 
+           One email per week discussing marketing, business and human psychology %0D%0A<a href="https://marketingbaba.in/pixels-newsletter">Subscrcibe</a> now. 
           
           </p>
    
