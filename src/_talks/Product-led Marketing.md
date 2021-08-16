@@ -18,7 +18,7 @@ Many would recommend the product everywhere from Facebook groups to reddit marke
 
 However *teach* approach seems to be last decade marketing tactic. Reason being marketing becomes saturated when everyone is following the same thing. 
 
-Also, people realize that everyone is pretending to be a *guru* and trust cannot be given so freely. 
+Also, users realize that everyone is pretending to be a *guru* and trust cannot be given so freely. 
 
 ## Product-led Marketing
 
@@ -31,6 +31,8 @@ As the name states, The product leads the way.
 Sales funnel stages in acquisition, expansion, conversion, retention are lead by the product. 
 
 Marketing caters to the existing users as the focus is on users upgrading existing services and metrics like revenue per user take primary importance.
+
+![Product-led-growth-image-1](C:\Users\vaves\Documents\GitHub\blog\src\assets\images\Product-led-growth-image-1.png)
 
 Let us try to understand this using a popular example: Notion.so
 
@@ -52,7 +54,7 @@ Traditionally core metric in marketing and sales has always being making sales. 
 
 In fact, with the way modern society has evolved, it is primary that user don't feel they are being sold. It has a negative effect esp. if your core audience is Gen Y and Gen X. 
 
-So, *Learn* approach seems fitting with the above idea. You aim to help the user learn the product and how it will solve the pain points. 
+So, *Learn* approach seems fitting with the above idea. Your aim is to help the user learn the product and how it will solve the pain points. 
 
 ## Marketing Strategy
 
@@ -75,7 +77,7 @@ Focus is on inbound growth. A cost efficient and relatively easy sell compared t
 
 Word of mouth leads the way. More specifically, happy users will share your product with friends and coworkers. 
 
-As former Slack CMO Bill Macaitis states "I tell my team members that their gold standard is not whether customers bought a product, but did they recommend us?"
+As former Slack CMO Bill Macaitis states "*I tell my team members that their gold standard is not whether customers bought a product, but did they recommend us?*"
 
 - Why are they buying your product?‍
 
@@ -103,19 +105,19 @@ Let us try to understand via a simple example: [Carrd.co](http://carrd.co) A lan
 
 A user never feels compelled but can always scale as per his/her requirement. 
 
-A *learn* approach focuses on the existing audience and increasing revenue per user. One of the many reasons why building an audience is go-to advise. One can always launch a service or a product around the audience. 
+A *product-led* approach focuses on the existing audience and increasing revenue per user. One of the many reasons why building an audience is go-to advise. One can always launch a service or a product around the audience. 
 
 ## Conclusion
 
-Learn approach is the next evolution of inbound marketing when rather than teaching buyers, you make the users learn. 
+Learn approach is the next evolution of inbound marketing when rather than teaching buyers, you make the users learn about the product. 
 
 It is an efficient way to increase your revenue, win loyalty and scale your business. 
 
-But, by its very nature, a learn approach is only as successful as the underlying product. Companies aim to build truly stellar products that put the user, not the buyer, front and center. 
+But, by its very nature, a product-led approach is only as successful as the underlying product. Companies aim to build truly stellar products that put the user, not the buyer, front and center. 
 
-Most importantly, learn approach simplify and streamline everything from the actual product to its marketing, sales and pricing all in an effort to make onboarding new users as clear and as seamless as possible.
+Most importantly, product-led approach simplify and streamline everything from the actual product to its marketing, sales and pricing all in an effort to make onboarding new users as clear and as seamless as possible.
 
-The neo-marketing approach seems to be gaining prevalence across the tech industry. Early adopters will have advantage. Much like it is with time, This approach will become saturated as well, so enjoy the ride as long as you can.
+The neo-marketing approach seems to be gaining prevalence across the tech industry. Early adopters will have advantage. As it is with marketing tactics, the approach will become saturated as well by the end of the decade. So make the best use as long as you can.
 
 Until next time,
 
@@ -127,3 +129,4 @@ Reference:
 
 1. https://www.productled.org/foundations/what-is-product-led-growth#Chap3
 2. https://openviewpartners.com/blog/product-led-growth-the-secret-to-becoming-a-top-quartile-public-company/#.XLYKsJNKhao
+
