@@ -1,9 +1,9 @@
+---
 template: talk
 title: Marketing is moving from a teach approach to a learn approach
 video: ''
 slides: ''
 date: 2021-08-16T00:00:00.000Z
-
 ---
 
 When HubSpot launched the CRM(product) for companies between 100-1000 employees, their marketing strategy was to educate the buyer.
