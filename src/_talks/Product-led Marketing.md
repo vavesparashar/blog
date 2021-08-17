@@ -32,7 +32,7 @@ Sales funnel stages in acquisition, expansion, conversion, retention are lead by
 
 Marketing caters to the existing users as the focus is on users upgrading existing services and metrics like revenue per user take primary importance.
 
-![Product-led-growth-image-1](images/Product-led-growth-image-1.png)
+<img src="/assets/Product-led-growth-image-1.png" alt="[Product-led-growth-image-1">
 
 Let us try to understand this using a popular example: Notion.so
 
