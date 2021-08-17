@@ -6,13 +6,13 @@ slides: ''
 date: 2021-08-16T00:00:00.000Z
 ---
 
-When HubSpot launched the CRM(product) for companies with between 100-1000 employees, their marketing strategy was to educate the buyer.
+When HubSpot launched the CRM(product) for companies of 100-1000 employees, their marketing strategy was to educate the buyer.
 
-Teaching the buyer nuances of the digital ecosystem and pushing them along the sales funnel that had a cycle of up to 18 months, the idea was to target users who can potentially be their clients. This simple teaching approach would help establish the company as an industry benchmark as HubSpot academy and a unicorn in the next few years.
+They targeted marketing professionals teaching them nuances of the digital ecosystem and pushing them along the sales funnel that had a cycle of up to 18 months. The idea was to focus on users who can potentially be their clients. This simple teaching approach would help establish the company as an industry benchmark as HubSpot academy and a unicorn in the next few years.
 
 Such was the success of *the teach* approach that many other companies followed the same principle.
 
-You educate the buyer that earns their trust. Often this led to word-of-mouth press over various community forums.
+You educate the buyer earning their trust in the process. Often this led to word-of-mouth press over various community forums.
 
 However, *the teach* approach seems to be the last decade marketing tactic. The reason being marketing becomes saturated when everyone is following the same thing.
 
@@ -30,7 +30,7 @@ Marketing caters to the existing users as the focus is on users upgrading servic
 
 ![](https://github.com/vavesparashar/blog/blob/Without-issues/src/assets/images/Product-led-growth-image-1.png?raw=true)
 
-Let us try to understand this using an example: Notion.so
+Let us try to understand using an example: Notion.so
 
 Notion product is so versatile that its users have been the largest channel for growth. The majority of users kept raving about new features among their social circle. Features like *share to the web* and linking to a domain became viral among the tech community.
 
@@ -48,9 +48,9 @@ Marketing takes the form of helping the user to learn the product and use its fe
 
 Traditionally core metric in marketing and sales has always been making sales. Pressure on executives led to practices like the hard sell. In the internet era, buyers are aware.
 
-In fact, with the way modern society has evolved, it is primary that users don't feel they are being sold. It has a negative effect esp. if your core audience is Gen Y and Gen X.
+In fact, with the way modern society has evolved, it is primary that users don't feel they are being sold. It has a negative effect especially if your core audience is Gen Y and Gen X.
 
-So, *Learn* approach seems fitting with the above idea. The aim is to help the user learn the product and how it will solve the pain points.
+Product-led approach seems to solve the issue with hard sell as the aim is to help the user learn the product and how it will solve the pain points.
 
 ## Marketing Strategy
 
