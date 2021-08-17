@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-const name = 'Inspire🌱Me';
+const name = 'Inspire.Me';
 
 const HeaderLogo = ({path}) => {
   const isHome = path === '/';
