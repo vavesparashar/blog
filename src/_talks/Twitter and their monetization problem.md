@@ -22,7 +22,7 @@ But paid model on a 'public' social media platform is never meant to succeed. **
 
 ## Different monetization strategies the platform is experimenting with are:
 
-## Newsletters:
+## <u>Newsletters</u>
 
 Twitter has been experimenting with newsletters which is great.
 
@@ -54,7 +54,7 @@ Lastly, If a follower is interested enough to subscribe to the creator's newslet
 
 My point is making a dedicated *one-click subscription* might be a good start but still many many questions remain and knowing twitter and their experiments which often fail, I am not sure the company's product managers have a clear idea of how to monetize newsletters sections, yet.
 
-## Audio:
+## <u>Audio</u>
 
 Twitter has been experimenting with audio in form of **spaces**.
 
@@ -92,7 +92,7 @@ The podcast might be where Twitter can niche down.
 
 ## Other options:
 
-## UI design:
+## <u>UI design</u>
 
 Another opportunity where Twitter can optimize the platform's monetization options is via UI redesign.
 
@@ -108,7 +108,7 @@ But then Tumblr shot themselves in the foot when they couldn't figure out a bett
 
 On records, it was valued at 1.1 billion by Yahoo in 2014. Due to series of poor modernization decisions resulted in the company's valuation plummeting to 3 million in 2019.
 
-## Ads:
+## <u>Paid Ads</u>
 
 Twitter audience constitute **80% Gen Y audience.** 
 
