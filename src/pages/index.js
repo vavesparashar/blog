@@ -27,7 +27,7 @@ const Index = ({location, data}) => {
         <Tabs>
           <TabList>
             <Tab>Deep dive</Tab>
-            <Tab>Bytes</Tab>
+            <Tab>Oreo Bites</Tab>
           </TabList>
           <TabPanel>
             <ArticleList articles={talks} />
