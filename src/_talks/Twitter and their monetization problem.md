@@ -26,7 +26,7 @@ But paid model on a 'public' social media platform is never meant to succeed. **
 
 Twitter has been experimenting with newsletters which is great.
 
-On the recent success of Substack and their $600+ million valuation, it is proof that the newsletter industry is booming. Companies sense there is money on the table as Facebook has entered the newsletter service as well in form of [Bulletin](https://www.bulletin.com/).
+On the recent success of Substack and their [$600+ million valuation](https://economictimes.indiatimes.com/tech/funding/substack-raises-65-million-in-andreessen-horowitz-led-funding-round/articleshow/81767546.cms?from=mdr), it is proof that the newsletter industry is booming. Companies sense there is money on the table as Facebook has entered the newsletter service as well in form of [Bulletin](https://www.bulletin.com/).
 
 As the creator economy is on the upsurge, Social media seem to be still finding the optimum method to pay original creators. Email channel due to relative familiarity of the medium and proven monetization models is a better bet, at least now. 
 
@@ -86,7 +86,7 @@ A quick attempt at redesigning my Twitter feed to accommodate audio is below:
 
 <img src="https://github.com/vavesparashar/blog/blob/Without-issues/src/assets/images/Untitled.png?raw=true" alt="New-Twitter-UI" width="350"/>
 
-How they monetize spaces will be interesting. **Spotify did it with audio but music makes the majority of their revenue** and only **20% of revenue comes from the podcast.** 
+How they monetize spaces will be interesting. **Spotify did it with audio but music makes the majority of their revenue** and **[Podcast](https://techcrunch.com/2021/07/28/podcasts-focus-spotify-user-growth/)** has been catching up. 
 
 The podcast might be where Twitter can niche down.
 
@@ -110,7 +110,7 @@ On records, it was valued at 1.1 billion by Yahoo in 2014. Due to series of poor
 
 ## <u>Paid Ads</u>
 
-Twitter audience constitute **80% Gen Y audience.** 
+Twitter audience constitute **[80% Gen Y audience](https://blog.hootsuite.com/twitter-demographics/).** 
 
 This is the most well-paid section of society so the huge potential is there. Apparel ads and other generic category-based ads on gender, demographics and behaviour should work in theory.
 
@@ -126,7 +126,7 @@ Then repeated it with reels.
 
 There seems like **Facebook has a defined process of introducing new UI features which users 'learn' naturally.** But twitter seems to have failed spectacularly with any major UI changes.
 
-For ex: Fleets. No one used them. They killed the feature in 6 months. This is contrasting compared to Instagram where 70% of active users use stories in some capacity.
+For ex: Fleets. No one used them. They killed the feature in 6 months. This is contrasting compared to Instagram where [70% of active users](https://techjury.net/blog/instagram-stories-statistics/) use stories in some capacity.
 
 As a public platform, opportunities are huge. They just need to be directed in a transactional way.
 
@@ -142,9 +142,9 @@ With rising political conflicts and bold decision to ban major political icons -
 
 India recently threatened to ban the app if the company failed to comply with rules. And this is no one-off incident.
 
-Germany and many other nations have been critical of the platforms function.
+[Germany](https://www.google.com/amp/s/www.cnbc.com/amp/2021/01/11/germanys-merkel-hits-out-at-twitter-over-problematic-trump-ban.html) and many other nations have been critical of the platforms function.
 
-Much like the Tic-Tok ban in India where the platform lost an audience size of 100+ million users, Twitter risks 20 million of their own.
+Much like the [Tic-Tok ban in India](https://www.businesstoday.in/technology/news/story/india-bans-tiktok-permanently-app-evaluates-notice-285375-2021-01-25) where the platform lost an audience size of [20+ million users](https://findly.in/tiktok-users-in-india-statistics/#which-country-has-the-most-tiktok-users-2020), Twitter risks 20 million of their own.
 
 Twitter's pivoting trait has kept them in green but heavy optimization is needed if they aim to catch Facebook rather than playing survival game of 'small' companies.
 
