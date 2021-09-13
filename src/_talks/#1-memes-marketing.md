@@ -1,6 +1,6 @@
 ---
 template: talk
-title: 01 MemeMarketing
+title: 01 Meme Marketing
 video: ''
 slides: ''
 date: 2021-13-09T00:00:00.000Z
@@ -19,8 +19,6 @@ I will be trying to create one meme daily for next 30 days and then we evaluate.
 To keep up with updates, you can [subscribe](https://marketingbaba.in/pixels-newsletter) to my newsletter here. (Once a week)
 
 Let's begin:
-
-\#noadressfound
 
 \#noadressfound
 
