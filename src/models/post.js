@@ -20,8 +20,8 @@ const CATEGORIES = [
     value: 'graphic-design',
   },
   {
-    label: 'Photography',
-    value: 'photography',
+    label: 'Research',
+    value: 'Research',
   },
   {
     label: 'Theming',
