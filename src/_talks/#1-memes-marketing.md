@@ -3,7 +3,7 @@ template: talk
 title: 01 MemeMarketing
 video: ''
 slides: ''
-date: 1970-01-01T00:00:00.000Z
+date: 2021-13-09T00:00:00.000Z
 ---
 
 Meme requires humor, which is an art. 
