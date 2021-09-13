@@ -90,7 +90,7 @@ As you can see, Audio has too many unknowns for twitter to figure out. Else much
 
 A quick attempt at redesigning my Twitter feed to accommodate audio is below:
 
-<img src="https://github.com/vavesparashar/blog/blob/Without-issues/src/assets/images/Untitled.png?raw=true" alt="New-Twitter-UI" width="350"/>
+![](https://github.com/vavesparashar/blog/blob/master/src/assets/images/Untitled%20(1).png?raw=true)
 
 How they monetize spaces will be interesting. **Spotify did it with audio but music makes the majority of their revenue** and **[Podcast](https://techcrunch.com/2021/07/28/podcasts-focus-spotify-user-growth/)** has been catching up. 
 
