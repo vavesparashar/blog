@@ -8,7 +8,7 @@ date: 2021-13-09T00:00:00.000Z
 
 Meme requires humor, which is an art. 
 
-There is a legitimate claim that memers control the universe. 
+There is a legitimate claim that [memers control the universe](https://twitter.com/elonmusk/status/1276418907968925696?lang=en). 
 
 Memes have a social influence that even marketing cannot match.  xD
 
