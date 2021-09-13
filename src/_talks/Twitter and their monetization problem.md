@@ -20,7 +20,11 @@ Twitter has kept experimenting with new ways, which is commendable.
 
 But paid model on a 'public' social media platform is never meant to succeed. **When your entire game is built on user size, you want as low entry barrier as possible**. A paid subscription is a huge hurdle. **Twitter want customers now than users.**
 
+
+
 ## Different monetization strategies the platform is experimenting with are:
+
+
 
 ## <u>Newsletters</u>
 
@@ -53,6 +57,8 @@ Another point is, Why will an existing creator take the hassle of moving to anot
 Lastly, If a follower is interested enough to subscribe to the creator's newsletter, there is a greater chance the follower checking out his work over his website before subscribing.
 
 My point is making a dedicated *one-click subscription* might be a good start but still many many questions remain and knowing twitter and their experiments which often fail, I am not sure the company's product managers have a clear idea of how to monetize newsletters sections, yet.
+
+
 
 ## <u>Audio</u>
 
@@ -90,7 +96,43 @@ How they monetize spaces will be interesting. **Spotify did it with audio but mu
 
 The podcast might be where Twitter can niche down.
 
+
+
+## <u>Tips and subscription system</u>
+
+Twitter has been experimenting with a model similar to platforms like Patreon in [Super follows](https://help.twitter.com/en/using-twitter/super-follows). 
+
+A proven model that might work but **is it optimum for a platform where public access of content is the main sell?**
+
+Platforms like Patreon and Only fans offers a dedicated platform for subscription type content. Tipping and paid access make for major functions.
+
+Such functions are not native to Twitter. The result of which might result in general users feeling abandoned. 
+
+Another point can be **how Twitter is viewing itself in the mid-long term?**
+
+Does Twitter view itself more like Facebook, a leader on the internet for open discussion and digital footprint or more niche platforms like Patreon and Only Fans where subscription is sold for access to private work. 
+
+Also, Existing creators already have established workflows across different platforms working in sync with each other. Twitter might offer a whole experience from newsletter to private subscription services yet it still requires sync across different web services.
+
+Unless all could be done via few clicks, it might result in a hard sell. 
+
+Combine it with twitter's habit of ditching failed experiments, it is a risk on the creator's part to put all eggs in one basket. 
+
+Another issue is, **Banning of accounts**. 
+
+How is Twitter going to address the grey area? Twitter is already notorious for banning influential accounts.
+
+Creators are aware how having an audience over public platforms are the grace of these platforms & any break in terms and conditions results in the deletion of the account. Hence owning an audience via emails are preferred. 
+
+**Solution:**
+
+An alternative solution can be focusing on b2b companies. Charging the companies via public API and giving incentives like revenue share. More such [solutions](https://www.socialmediatoday.com/news/twitter-explores-new-tweet-subscription-options-paid-tools-for-tweetdeck/594722/) should be explored as **companies are more likely to pay than a user.**
+
+
+
 ## Other options:
+
+
 
 ## <u>UI design</u>
 
@@ -107,6 +149,8 @@ Not only will this allow more encouragement on click-through-ratio which Twitter
 But then Tumblr shot themselves in the foot when they couldn't figure out a better monetization strategy. So much so, their poor attempt to monetize the platform killed the company.
 
 On records, it was valued at 1.1 billion by Yahoo in 2014. Due to series of poor modernization decisions resulted in the company's valuation plummeting to 3 million in 2019.
+
+
 
 ## <u>Paid Ads</u>
 
@@ -135,6 +179,8 @@ As a public platform, opportunities are huge. They just need to be directed in a
 Rivals have done it and are thriving.
 
 There also lies a grim reality in Tumblr's failure to do so. It leads to slow painful death.
+
+
 
 ## Conclusion:
 
