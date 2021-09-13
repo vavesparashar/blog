@@ -1,9 +1,8 @@
 ---
-template: talk
+template: post
 title: 01 Meme Marketing
-video: ''
-slides: ''
-date: 2021-13-09T00:00:00.000Z
+date: 2021-09-13T13:23:58.193Z
+category: Research
 ---
 
 Meme requires humor, which is an art. 

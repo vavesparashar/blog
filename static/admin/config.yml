@@ -31,8 +31,8 @@ collections:
       value: Lessons
     - label: Opinion
       value: Opinion
-    - label: Graphic Design
-      value: graphic-design
+    - label: Research
+      value: Research
     - label: Photography
       value: photography
     - label: Theming
