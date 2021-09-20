@@ -1,7 +1,7 @@
 ---
 template: post
 title: The curious case of automated targeting | Facebook & Google algorithm update
-date: 2021-09-21T23:23:58.193Z
+date: 2021-09-20T23:23:58.193Z
 category: Updates
 ---
 The Facebook Ads team has [released v12.0](https://developers.facebook.com/blog/post/2021/09/14/introducing-facebook-graph-api-v12-marketing-api-v12/) of their Marketing API.
@@ -18,11 +18,11 @@ The Facebook Ads team has [released v12.0](https://developers.facebook.com/blog/
 
 Facebook's latest update of the ad algorithm gives an idea about the direction in which the company wants to go. 
 
-There has been a rise in easy to use features. I think **Facebook's reasoning is they know better about the audience on their platform than us.**
+There has been a rise in easy to use features across the platform. In terms of paid ads, very easy processes where only in few clicks you are increasing your reach. **Facebook's reasoning is they understand user behaviour**, better than anyone else. This has often resulted in taking away controls to target as needed. 
 
-Facebook professional pages and accounts are focused on the '*boost*' option beside every post. The idea remains that they want to make the process of paid promotion as easy as possible. 
+Facebook pages and professional accounts are focused on the '*boost*' option beside every post. The idea remains that they want to make the process of paid promotion as easy as possible. 
 
-The majority of users are don't have the technical knowledge to set up a professional ad account. Facebook knows indie-creators and small businesses are ready to spend on ads, even on a small budget. To facilitate such ad behaviour, Facebook designed a '*boost*' option where one can promote within few clicks.
+The majority of users are don't have the technical knowledge to set up a professional ad account. Facebook knows indie-creators and small businesses are ready to spend on ads without hassel. Easy steps facilitate such ad behaviour. Facebook designed a '*boost*' option where one can promote within few clicks.
 
 Professional marketer's opinion is that the 'boost' feature focuses more on views than ROI. However, Such changes indicate the direction in which the company wants to progress.
 
@@ -46,7 +46,7 @@ The reason is that they know the audience better than you. It makes a convincing
 
 ## **Conclusion:**
 
-Only time can answer how such changes affect us, I think both the companies want to make the process of advertising as easy as possible. Within few clicks, you can set up ads and start seeing results.
+Only time can answer how such changes affect us, I think Google and Facebook want to make the process of advertising as easy as possible. Within few clicks, you can set up ads and start seeing results.
 
 From the consumer perspective, This is good news as they will see more relevant ads. Such targeting might result in better conversions.
 
