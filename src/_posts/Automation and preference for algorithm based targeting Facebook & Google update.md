@@ -1,6 +1,8 @@
 ---
-template: page
+template: post
 title: The curious case of automated targeting | Facebook & Google algorithm update
+date: 2021-09-21T23:23:58.193Z
+category: Research
 ---
 The Facebook Ads team has [released v12.0](https://developers.facebook.com/blog/post/2021/09/14/introducing-facebook-graph-api-v12-marketing-api-v12/) of their Marketing API.
 
