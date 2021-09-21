@@ -18,11 +18,11 @@ The Facebook Ads team has [released v12.0](https://developers.facebook.com/blog/
 
 Facebook's latest update of the ad algorithm gives an idea about the direction in which the company wants to go. 
 
-There has been a rise in easy to use features across the platform. In terms of paid ads, very easy processes where only in few clicks you are increasing your reach. **Facebook's reasoning is they understand user behaviour**, better than anyone else. This has often resulted in taking away controls to target as needed. 
+There has been a rise in easy to use features across the platform. In terms of paid ads, very easy processes where only in few clicks you are increasing your reach. 
 
 Facebook pages and professional accounts are focused on the '*boost*' option beside every post. The idea remains that they want to make the process of paid promotion as easy as possible. 
 
-The majority of users are don't have the technical knowledge to set up a professional ad account. Facebook knows indie-creators and small businesses are ready to spend on ads without hassel. Easy steps facilitate such ad behaviour. Facebook designed a '*boost*' option where one can promote within few clicks.
+The majority of users are don't have the technical knowledge to set up a professional ad account. Facebook knows indie-creators and small businesses are ready to spend on ads, if they can be setup independently. Facebook designed a '*boost*' option where one can promote within few clicks to facilitate such ad behaviour.
 
 Professional marketer's opinion is that the 'boost' feature focuses more on views than ROI. However, Such changes indicate the direction in which the company wants to progress.
 
