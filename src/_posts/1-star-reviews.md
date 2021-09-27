@@ -1,6 +1,6 @@
 ---
 template: post
-title: One-Star reviews are your best advertising
+title: One-Star reviews are the best advertising
 date: 2021-09-27T15:23:58.193Z
 category: Opinion
 ---
@@ -9,11 +9,11 @@ category: Opinion
 
 Customers who like the product are generous with words and ratings. Most give 5-star reviews when insisted. 5-star reviews are great for discovery over platforms like Amazon and Flipkart.
 
-However, When you're considering buying a product/item, 5-star ratings don't paint the complete picture as there are always cons that a seasoned buyer knows.
+However, When a consumer is considering buying a product/item, 5-star ratings don't paint the complete picture as there are cons that a seasoned buyer knows.
 
 **The saturation of 5-star reviews had led to many users preferring to read *critical feedback* of the product**. It works as a customer get their expectations aligned pretty much correctly reading the negative feedback.
 
-In an ideal world, business owners don't need to worry about reviews. But as a result of digitalisation, has come services where business owners are paying to get fake reviews so that they can rank higher in the search engine listing.
+In an ideal world, business owners don't need to worry about reviews. But due to digitalisation, has come services where business owners are paying to get fake reviews so that they can rank higher in the search engine listing.
 
 Some pay to tarnish the reputation of competitors. In 2020, Amazon removed over 200 million fake reviews. [[Source](https://www.cnet.com/news/how-fake-reviews-flood-amazon-fueled-by-facebook-groups-like-this-one/)]
 
