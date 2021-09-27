@@ -10,7 +10,7 @@ import img_favicon_png from 'assets/images/favicon.png';
 import img_touchicon_png from 'assets/images/touchicon.png';
 
 const helmet_settings = {
-    title: '0.type',
+    title: 'Mild Chai',
     meta: [
         {
             name: 'description',
@@ -18,7 +18,7 @@ const helmet_settings = {
         },
         {
             property: 'og:title',
-            content: '0.type',
+            content: 'Mild Chai',
         },
         {
             property: 'og:description',
@@ -30,7 +30,7 @@ const helmet_settings = {
         },
         {
             property: 'og:site_name',
-            content: '0.type',
+            content: 'Mild Chai',
         },
     ],
     link: [
