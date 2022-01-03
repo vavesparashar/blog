@@ -54,7 +54,7 @@ const Footer = () => {
                 
                 <li>
                   <Link to="/">
-                    &copy;Mild Chai
+                    &copy;Learnings
                   </Link>
                 </li>
               </ul>

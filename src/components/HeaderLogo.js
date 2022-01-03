@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-const name = 'Mild Chai';
+const name = 'Learnings';
 
 const HeaderLogo = ({path}) => {
   const isHome = path === '/';

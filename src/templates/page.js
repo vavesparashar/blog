@@ -23,11 +23,11 @@ export default function Template({ location, data }) {
         bodyAttributes: {
             class: `article page page-${Parameterize(post.title)}`,
         },
-        title: `${post.title} - Mild Chai `,
+        title: `${post.title} - Learnings `,
         meta: [
             {
                 property: 'og:title',
-                content: `${post.title} - Mild Chai: Understanding Internet, Business & Human Behaviour `,
+                content: `${post.title} - Learnings: Understanding Internet, Business & Human Behaviour `,
             },
         ],
     };
