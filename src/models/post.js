@@ -16,16 +16,16 @@ const CATEGORIES = [
     value: 'Lessons',
   },
   {
-    label: 'Graphic Design',
-    value: 'graphic-design',
+    label: 'Theory',
+    value: 'Theory',
   },
   {
     label: 'Research',
     value: 'Research',
   },
   {
-    label: 'Theming',
-    value: 'theming',
+    label: 'Experience',
+    value: 'Experience',
   },
   {
     label: 'UI Design',
@@ -36,8 +36,8 @@ const CATEGORIES = [
     value: 'updates',
   },
   {
-    label: 'Web Design',
-    value: 'web-design',
+    label: 'Insights',
+    value: 'Insights',
   },
   
   {

@@ -20,7 +20,7 @@ Human's primal desire to live in small communities has resulted in formation of 
 
 Users seem to embrace the dialogues being sharing across the community. The impact is profound in terms of behavior as noticed across communities like r/wallstreetbets, r/redpill, r/feminism etc.
 
-Tic-Tok published an article where they claimed **products are going viral as a result of community** giving rise to a new pattern emerging as community commerce. [[Source](https://www.tiktok.com/business/en-US/blog/community-commerce-tiktok-making-products-viral)]
+Tic-Tok published an article where they claimed **products are going viral as a result of community** giving rise to a new pattern emerging as community commerce. [Source](https://www.tiktok.com/business/en-US/blog/community-commerce-tiktok-making-products-viral)
 
 I myself have consumed products because the community recommendations. Humans desire to be validated also lead to such convictions which reflect in purchase behavior. 
 
