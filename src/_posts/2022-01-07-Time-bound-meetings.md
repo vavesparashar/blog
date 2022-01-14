@@ -3,8 +3,6 @@ template: post
 title: Time bound meetings
 date: 2022-01-07T22:00:58.193Z
 category: Experience
-
-
 ---
 
 Giving your best is almost like a second nature. Never compromising becomes an attitude if desire to succeed is strong. But often in order for being the best, we lose track of time.

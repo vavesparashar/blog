@@ -1,12 +1,11 @@
 ---
 template: post
 title: Logistics & Supply chain Industry
-date: 2022-01-027T08:15:58.193Z
+date: 2022-01-07T08:15:58.193Z
 category: Insights
 
 ---
-
-Last month, Delhivery raised another $250 million to take their valuation to $3 billion dollars. 
+Delhivery raised another $250 million to take their valuation to $3 billion dollars. 
 
 Interesting fact is this is just for India. 
 

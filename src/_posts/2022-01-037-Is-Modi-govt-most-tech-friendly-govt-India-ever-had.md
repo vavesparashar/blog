@@ -1,7 +1,7 @@
 ---
 template: post
 title: Is Modi govt most tech friendly govt India ever had?
-date: 2022-01-037T08:15:58.193Z
+date: 2022-01-07T08:15:58.193Z
 category: Opinion
 ---
 
