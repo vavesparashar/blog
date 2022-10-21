@@ -1,7 +1,7 @@
 ---
 template: post
 title: Small gestures as a Manager
-date: 2022-01-9T21:19:58.193Z
+date: 2022-01-09T21:19:58.193Z
 category: Experience
 
 
