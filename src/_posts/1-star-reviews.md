@@ -37,8 +37,4 @@ Keep getting positive reviews. Encourage your happy customers to leave you feedb
 
 Trust my advice helps. 
 
-I will be launching a newsletter soon. You can subscribe [here](https://marketingbaba.in/pixels-newsletter). 
-
 Until next time,
-
-Vivek
